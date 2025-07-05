@@ -6,8 +6,8 @@ Proyek ini merupakan bagian dari tugas akhir pada mata kuliah Teori Antrian, yan
 Membangun model klasifikasi yang mampu memprediksi apakah waktu tunggu pasien berada dalam kategori *Cepat* (≤15 menit), *Sedang* (16–30 menit), atau *Lambat* (>30 menit) berdasarkan informasi waktu tanggap, waktu kedatangan, serta karakteristik fasilitas dan jam operasional rumah sakit.
 
 ## Dataset
-Dataset diambil dari publikasi terbuka:
-[Emergency Services Utilization in Jakarta (Brice et al., 2022) – Zenodo](https://zenodo.org/record/6607963)
+Dataset diambil dari repositori resmi milik Cardiff University melalui Figshare:
+[Emergency Services Utilization in Jakarta (Brice et al., 2022) – Cardiff University / Figshare](https://research-data.cardiff.ac.uk/articles/dataset/Emergency_services_utilization_in_Jakarta_Indonesia_A_cross-sectional_study_of_patients_attending_hospital_emergency_departments_-_data/27277395)
 
 ## Metodologi
 1. Eksplorasi Data dan Pembersihan
